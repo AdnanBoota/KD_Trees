@@ -2,7 +2,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class KdTree {
-
+    
+    
+    
   private static final boolean HORIZONTAL = true;
 
   private static class Node {
